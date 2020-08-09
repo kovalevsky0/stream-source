@@ -1,0 +1,24 @@
+body, html {
+  background: transparent !important;
+  margin: 0;
+  padding: 0;
+}
+
+
+#chat {
+  width: 500px;
+  height: 500px;
+  border: 3px solid #4b546a;
+  background: rgb(35 37 45 / 45%);
+  position: relative;
+}
+
+#label_chat {
+  position: absolute; 
+}
+
+#keys {
+  width: 58px;
+  position: absolute;
+  left: 71px;
+}
